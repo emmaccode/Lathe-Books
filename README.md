@@ -1,4 +1,3 @@
-# Lathe-Books
 <div align="center"><img src="https://github.com/emmettgb/Lathe-Books/blob/main/lathebooks.png" />
   <h1>Lathe Books!</h1>
 </div>
